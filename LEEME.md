@@ -21,3 +21,7 @@ Abajo de la página aparece "Datos: historico.csv · N sorteos · último concur
 2. "Subir archivo": elige un CSV (CONCURSO,R1..R5,FECHA, o el mismo formato de historico.csv) o usa "Nuevo resultado". Todo se recalcula al instante.
 3. "Datos guardados" > "Descargar historico.csv actualizado" y sube ese archivo a GitHub reemplazando el anterior.
 Importante: lo que cargas en la página se guarda solo en ese navegador; los demás visitantes lo ven hasta que subas el historico.csv a GitHub.
+
+## Boletos estrella: números repetidos
+En la ventana "Boletos estrella" hay una casilla "Aceptar números repetidos de los últimos 3 sorteos".
+Apagada (por defecto): ningún boleto lleva números de los últimos 3 sorteos. Encendida: se permiten; las estadísticas y las demás reglas no cambian.
